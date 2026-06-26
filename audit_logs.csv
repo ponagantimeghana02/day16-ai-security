@@ -1,0 +1,4 @@
+User ID,Timestamp,Prompt,Tool Used,Retrieved Documents,Model Response,Risk Score,Policy Decision
+EMP001,2026-06-26 10:41:38,Show leave policy,HR Knowledge Base,"leave_policy.pdf, employee_handbook.pdf",Employees receive 20 annual leave days.,2,ALLOW
+EMP002,2026-06-26 10:41:38,Show salary records,Payroll Database,salary_records.xlsx,Access denied.,9,DENY
+SUP001,2026-06-26 10:41:38,Check customer ticket status,Customer Support Tool,ticket_1045.json,Ticket is currently in progress.,3,ALLOW

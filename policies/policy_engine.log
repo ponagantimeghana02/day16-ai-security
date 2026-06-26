@@ -1,0 +1,16 @@
+2026-06-26 10:40:37,753 - INFO - HR Agent requested access to 'leave_policy'
+2026-06-26 10:40:37,753 - INFO - ACCESS GRANTED -> HR Agent -> leave_policy
+2026-06-26 10:40:37,754 - INFO - HR Agent requested access to 'salary_records'
+2026-06-26 10:40:37,754 - WARNING - ACCESS DENIED -> HR Agent -> salary_records
+2026-06-26 10:40:37,754 - INFO - Payroll Agent requested access to 'salary_records'
+2026-06-26 10:40:37,754 - INFO - ACCESS GRANTED -> Payroll Agent -> salary_records
+2026-06-26 10:40:37,754 - INFO - Payroll Agent requested access to 'faq'
+2026-06-26 10:40:37,755 - WARNING - ACCESS DENIED -> Payroll Agent -> faq
+2026-06-26 10:40:37,755 - INFO - Customer Support Agent requested access to 'ticket_status'
+2026-06-26 10:40:37,755 - INFO - ACCESS GRANTED -> Customer Support Agent -> ticket_status
+2026-06-26 10:40:37,755 - INFO - Customer Support Agent requested access to 'salary_records'
+2026-06-26 10:40:37,756 - WARNING - ACCESS DENIED -> Customer Support Agent -> salary_records
+2026-06-26 10:40:37,756 - INFO - Admin Agent requested access to 'salary_records'
+2026-06-26 10:40:37,756 - INFO - ACCESS GRANTED -> Admin Agent -> salary_records
+2026-06-26 10:40:37,757 - INFO - Admin Agent requested access to 'leave_policy'
+2026-06-26 10:40:37,757 - INFO - ACCESS GRANTED -> Admin Agent -> leave_policy
